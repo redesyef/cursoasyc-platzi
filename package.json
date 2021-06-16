@@ -1,0 +1,17 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+    
+  },
+  "keywords": [
+    "callback",
+    "primse",
+    "async"
+  ],
+  "author": "Yeferson Peña",
+  "license": "ISC"
+}
