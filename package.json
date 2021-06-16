@@ -5,7 +5,6 @@
   "main": "src/index.js",
   "scripts": {
     "callback": "node src/callback/index.js"
-    
   },
   "keywords": [
     "callback",
@@ -13,5 +12,8 @@
     "async"
   ],
   "author": "Yeferson Peña",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
